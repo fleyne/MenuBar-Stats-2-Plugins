@@ -48,7 +48,7 @@ Beside the few mandatory items above, the plugin can be structured as you want.
 NB: Important! [MenuBar Stats 2](https://www.seense.com/menubarstats), is and will always be sandboxed for security reasons. So the plugin will automatically inhirit the sandbox constraints. The sandbox of MenuBar Stats 2 is very minimum only outgoing connections HTTPS are authorized, and file user selection is authorized in Read Only mode.	
 	
 			
-Go to the wiki for more detailed information.
+Go to the [wiki](https://github.com/fleyne/MenuBar-Stats-2-Plugins/wiki) for more detailed information.
 	
 	
 ##Requirements
