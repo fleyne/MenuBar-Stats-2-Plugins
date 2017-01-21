@@ -6,10 +6,10 @@ MenuBar Stats was released for the first time, by Fabrice Leyne, [seense](https:
 [MenuBar Stats 2](https://www.seense.com/menubarstats) has been fully re-coded at the end of 2015 to allow plugins management.  
 You can try for free [MenuBar Stats 2](https://www.seense.com/menubarstats).   
 
-##MenuBar Stats 2 main architecture
+##MenuBar Stats 2 Main Architecture
 [MenuBar Stats 2](https://www.seense.com/menubarstats), architecture is mainly compose of 2 parts:  
 
-* The core part which is managing the plugins, windows...   
+* MBS2 core part which is managing the plugins, windows...   
 * The plugins. (As of today, 5 plugins are included in the current version -CPU, Disk, Battery, Network, Memory-, 2 additional plugins can be added -Fans, Temperature- for free).   
 
 With this architecture, it is possible for anyone to build their own plugin.
@@ -36,10 +36,10 @@ Each modules must have:
 * An icon (prefered format is PDF format) that is used to identify the module in the different windows (MBSBundleIcon in Info.plist).  
 * A module name that is used to identify the module in the different windows (MBSBundleDisplayName in Info.plist).  
 * A principal class following a specific protocol, which:
-	* Will provide to the core the needed objects (mainly views). (statusbarview, combinedview, standaloneview, preferencesview, notificationsview, optional menu...).    
+	* Will provide to MBS2 core the needed objects (mainly views). (statusbarview, combinedview, standaloneview, preferencesview, notificationsview, optional menu...).    
 	* And methods to update the Model and the Views.   
 	* An optional menu for the module (as MBS2 Memory module for example).   
-	* An optional menu where the items will be used and consolidated by the core and accessible from the gear button. (Open Disk Utility... for example).  
+	* An optional menu where the items will be used and consolidated by MBS2 core and accessible from the gear button. (Open Disk Utility... for example).  
 	
 
 Beside the few mandatory items above, the plugin can be structured as you want.
