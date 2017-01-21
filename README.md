@@ -1,7 +1,7 @@
 #MenuBar Stats 2, plugins repository
 
 ##History
-[MenuBar Stats 2](https://www.seense.com/menubarstats) is an Advanced System Monitoring app for Mac.   
+[MenuBar Stats 2](https://www.seense.com/menubarstats) is an Advanced System Monitoring for Mac.   
 MenuBar Stats was released for the first time, by Fabrice Leyne, [seense](https://www.seense.com), in 2013.   
 [MenuBar Stats 2](https://www.seense.com/menubarstats) has been fully re-coded at the end of 2015 to allow plugins management.  
 You can try for free [MenuBar Stats 2](https://www.seense.com/menubarstats).   
