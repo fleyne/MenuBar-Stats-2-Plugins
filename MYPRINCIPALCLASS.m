@@ -1,6 +1,6 @@
 //
-//  MBSModuleController.m
-//  mbsCPU
+//  MYPRINCIPALCLASS.m
+//  
 //
 //  Created by Fabrice Leyne on 10/07/2015.
 //  Copyright (c) 2015 Fabrice Leyne. All rights reserved.
